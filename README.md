@@ -6,7 +6,8 @@
  I also watched some introductory tutorials on Git aswell as GitHub, set up my own GitHub account, and created this little blog to document my progress.
 
 -DAY 1- 01/07/2025
- today I completed Week 0 of CS50! I watched the lecture and submitted my own Scratch project as the problem set, for which I created a small arcade-style minigame inspired by Pac-Man.
+ today I completed Week 0 of CS50! 
+ I watched the lecture and submitted my own Scratch project as the problem set, for which I created a small arcade-style minigame inspired by Pac-Man.
  It was a fun challenge although at times a bit frustrating, since Scratch definitely felt limiting in some ways, especially when I had specific mechanics or logic in mind. 
  Still, I managed to finish with something I'm fairly happy with, despite a few possibilities for improvement.
  
@@ -18,3 +19,14 @@
  Like my Scratch Project its also still very early and quite basic, but it was an interesting experiment nonetheless. I'm sure I'll work with this a bit more and maybe refine it in the future.
 
  My next few days are packed with work and plans with friends, so Ill probably continue with Week 1 on Friday. But I am Already very much looking forward to it!
+
+-DAY 2- 04/07/2025
+today I started and finished Week 1 of CS50. 
+While the first exercises in this weeks problem set were fairly easy the final task "credit" really made me think for the first time and puzzle out a solution.
+I really loved that, because that's  how I thin I learn best and that feeling of having to  work out and find a solution to a problem is what I love the most about coding.
+
+At the beginning I also had to get used to the C syntax, but now after some exercises I already feel pretty comfortable with the basics. 
+All in all I'm definitely excited to see how the course will progress from here  since it's been incredibly enjoyable so far.
+
+Unfortunately I won’t be able to continue before next Monday, since I'm once again working twice over the weekend and also have plans with my girlfriend.
+Monday itself is another workday too but I hope I can still squeeze in some time before or after work to get started with Week 2!
